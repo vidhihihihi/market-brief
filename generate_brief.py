@@ -15,7 +15,7 @@ import yfinance as yf
 import re
 
 # ---- CONFIG: edit these to suit what you follow ---------------------------
-CURATOR = "Your Name"
+CURATOR = "Vidhi"
 TZ = ZoneInfo("Asia/Kolkata")
 
 SECTIONS = {
