@@ -19,7 +19,7 @@ import requests
 import yfinance as yf
 
 # ---- CONFIG: edit these --------------------------------------------------
-CURATOR = "Your Name"
+CURATOR = "Vidhi"
 TZ = ZoneInfo("Asia/Kolkata")
 MODEL = os.environ.get("GEMINI_MODEL", "gemini-flash-latest")
 MAX_AGE_HOURS = 72      # ignore stories older than this
